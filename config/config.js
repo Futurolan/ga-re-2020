@@ -1,7 +1,7 @@
 let config = {
   title: 'Gamers Assembly 2020',
   logo: `/static/img/logo.png`,
-  description: 'Retrouvez la Gamers Assembly 2019 du 10 au 13 avril 2020 pour une 21e édition de folie !',
+  description: 'Retrouvez la Gamers Assembly 2020 du 10 au 13 avril 2020 pour une 21e édition de folie !',
   metaImagePath: `/static/img/logo.png`,
   gaTrackingId: 'UA-128777022-8',
   mainPartner: {
@@ -13,7 +13,7 @@ let config = {
     // hero: {
     //   background: '/static/img/bg-grey-area.jpg',
     //   title: 'Gamers Assembly',
-    //   subtitle: 'Edition 2019'
+    //   subtitle: 'Edition 2020'
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
@@ -24,7 +24,7 @@ let config = {
   },
   news: {
     title: 'Actualités',
-    description: 'Retrouvez toutes les actualités de la Gamers Assembly 2019',
+    description: 'Retrouvez toutes les actualités de la Gamers Assembly 2020',
     link: '/news'
   },
   partners: {
@@ -34,12 +34,12 @@ let config = {
   },
   tournaments: {
     title: 'Tournois',
-    description: 'Tous les tournois de la Gamers Assembly 2019',
+    description: 'Tous les tournois de la Gamers Assembly 2020',
     link: '/tournois'
   },
   info: {
     title: 'Venir à la GA',
-    description: 'Toutes les informations sur la Gamers Assembly 2019',
+    description: 'Toutes les informations sur la Gamers Assembly 2020',
     link: '/infos'
   },
   schedule: {
@@ -54,7 +54,7 @@ let config = {
   },
   tickets: {
     title: 'Billetterie',
-    description: 'Achetez vos places pour la Gamers Assembly 2019',
+    description: 'Achetez vos places pour la Gamers Assembly 2020',
     link: '/billetterie',
     pass: {
       title: 'Pass "Manager/Accompagnateur"',
