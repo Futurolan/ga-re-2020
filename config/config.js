@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 let config = {
   title: 'Gamers Assembly 2020',
   logo: `/static/img/logo.png`,
@@ -115,3 +114,5 @@ let config = {
     discord: 'https://discordapp.com/invite/gamersassembly'
   }
 }
+
+module.exports = config

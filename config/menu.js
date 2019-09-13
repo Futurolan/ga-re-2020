@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 const menu = [
   { type: 'config', id: 'news' },
   // { type: 'config', id: 'live' },
@@ -23,3 +22,5 @@ const menu = [
   // { type: 'page', title: 'Concours', id: 3175, link: '/concours' },
   { type: 'config', id: 'partners' }
 ]
+
+module.exports = menu
