@@ -1,9 +1,9 @@
 let config = {
   title: 'Gamers Assembly 2019',
   logo: `/static/img/logo.png`,
-  description: 'Retrouvez la Gamers Assembly 2019 du ?? au ?? avril 2020 pour une 21e édition de folie !',
+  description: 'Retrouvez la Gamers Assembly 2019 du 10 au 13 avril 2020 pour une 21e édition de folie !',
   metaImagePath: `/static/img/logo.png`,
-  gaTrackingId: 'UA-128777022-5',
+  gaTrackingId: 'UA-128777022-8',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
     url: 'https://www.grandpoitiers.fr/'
