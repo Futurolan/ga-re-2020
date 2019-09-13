@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 const menu = [
   { type: 'config', id: 'news' },
   // { type: 'config', id: 'live' },
