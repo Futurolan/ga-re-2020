@@ -1,5 +1,5 @@
 let config = {
-  title: 'Gamers Assembly 2019',
+  title: 'Gamers Assembly 2020',
   logo: `/static/img/logo.png`,
   description: 'Retrouvez la Gamers Assembly 2019 du 10 au 13 avril 2020 pour une 21e édition de folie !',
   metaImagePath: `/static/img/logo.png`,
