@@ -17,7 +17,7 @@ let config = {
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
-      active: true,
+      active: false,
       delay: 10,
       count: 4
     }
@@ -92,7 +92,7 @@ let config = {
     pageId: 6
   },
   press: {
-    active: true,
+    active: false,
     pageId: 7
   },
   legals: {
@@ -100,7 +100,7 @@ let config = {
     pageId: 8
   },
   recruit: {
-    active: true,
+    active: false,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
     formUrl: 'https://goo.gl/forms/xMUWgVAxaTTVNDbu1'
