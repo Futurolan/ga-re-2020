@@ -9,7 +9,7 @@ let config = {
     url: 'https://www.grandpoitiers.fr/'
   },
   home: {
-    banner: '/static/img/banner.jpg',
+    banner: '/static/img/banner.png',
     // hero: {
     //   background: '/static/img/bg-grey-area.jpg',
     //   title: 'Gamers Assembly',
