@@ -1,7 +1,7 @@
 const menu = [
   { type: 'config', id: 'news' },
-  // { type: 'config', id: 'live' },
-  // { type: 'config', id: 'tickets' },
+  { type: 'config', id: 'live' },
+  { type: 'config', id: 'tickets' },
   // { type: 'page', title: 'Pass\'Bar', id: 2822, link: '/passbar' },
   // { type: 'config', id: 'tournaments' },
   { type: 'config', id: 'info' },
