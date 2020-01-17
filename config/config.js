@@ -1,8 +1,8 @@
-let config = {
+const config = {
   title: 'Gamers Assembly 2020',
-  logo: `/static/img/logo.png`,
+  logo: '/static/img/logo.png',
   description: 'Retrouvez la Gamers Assembly 2020 du 10 au 13 avril 2020 pour une 21e édition de folie !',
-  metaImagePath: `/static/img/logo.png`,
+  metaImagePath: '/static/img/logo.png',
   gaTrackingId: 'UA-128777022-8',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
