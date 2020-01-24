@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 const config = {
   title: 'Gamers Assembly 2020',
   logo: '/static/img/logo.png',
