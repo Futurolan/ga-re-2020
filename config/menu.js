@@ -10,7 +10,8 @@ const menu = [
     children: [
       { type: 'config', id: 'info' },
       { type: 'page', title: 'Comment s\'inscrire à la GA', id: 199268, link: '/inscriptions' }
-    ] },
+    ] 
+  },
   { type: 'config', id: 'partners' }
 ]
 
