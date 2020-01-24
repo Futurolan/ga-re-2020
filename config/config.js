@@ -18,7 +18,7 @@ const config = {
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
-      active: false,
+      active: true,
       delay: 10,
       count: 4
     }
@@ -39,7 +39,7 @@ const config = {
     link: '/tournois'
   },
   info: {
-    title: 'Venir à la GA',
+    title: 'Informations pratiques',
     description: 'Toutes les informations sur la Gamers Assembly 2020',
     link: '/infos'
   },
