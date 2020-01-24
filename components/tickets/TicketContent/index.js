@@ -26,6 +26,9 @@ function TicketContent ({ data: { loading, error, node } }) {
         <h1 className='title title-line has-text-centered'><span>{config.tickets.title}</span></h1>
         <div className='columns is-multiline'>
           <div className='column is-12 is-8-desktop'>
+            <div className='box'>
+                Jusqu'au 11 mars, profitez d'une réduction de 10 € par place joueur avec le code promo #GA2020 (dès le début de l'inscription, à l'étape 1)
+            </div>
             <div className='box '>
               <WeezeventIframe id={node.weezeventId} url={node.url} />
             </div>
