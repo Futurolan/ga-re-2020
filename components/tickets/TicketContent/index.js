@@ -27,7 +27,7 @@ function TicketContent ({ data: { loading, error, node } }) {
         <div className='columns is-multiline'>
           <div className='column is-12 is-8-desktop'>
             <div className='notification is-warning'>
-              <strong>ATTENTION !</strong><br>Jusqu'au 11 mars, profitez d'une réduction de 10 € par place joueur avec le code de réduction <strong>#GA2020</strong><br>  (NE PAS OUBLIER dès le début de l'inscription, à l'étape 1)
+              <strong>ATTENTION !</strong><br />Jusqu'au 11 mars, profitez d'une réduction de 10 € par place joueur avec le code de réduction <strong>#GA2020</strong><br />  (NE PAS OUBLIER dès le début de l'inscription, à l'étape 1)
             </div>
             <div className='box '>
               <WeezeventIframe id={node.weezeventId} url={node.url} />
