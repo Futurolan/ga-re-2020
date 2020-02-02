@@ -101,10 +101,10 @@ const config = {
     pageId: 8
   },
   recruit: {
-    active: false,
+    active: true,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
-    formUrl: 'https://goo.gl/forms/xMUWgVAxaTTVNDbu1'
+    formUrl: 'https://forms.gle/uLwpakkR65Njajjv9'
   },
   social: {
     twitter: 'https://twitter.com/GamersAssembly',
