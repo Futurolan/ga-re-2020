@@ -57,6 +57,7 @@ const config = {
     title: 'Billetterie',
     description: 'Achetez vos places pour la Gamers Assembly 2020',
     link: '/billetterie',
+    notification: '<strong>ATTENTION !</strong><br />Jusqu\'au 11 mars, profitez d\'une réduction de 10 € par place joueur avec le code de réduction <strong>#GA2020</strong><br />  (NE PAS OUBLIER dès le début de l\'inscription, à l\'étape 1)',
     pass: {
       title: 'Pass "Manager/Accompagnateur"',
       text: 'Pour obtenir des pass "Manager/Accompagnateur", les équipes inscrites aux tournois peuvent réaliser une demande via le lien ci-dessous.',
