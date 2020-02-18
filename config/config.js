@@ -94,8 +94,8 @@ const config = {
     pageId: 6
   },
   press: {
-    active: false,
-    pageId: 7
+    active: true,
+    pageId: 199518
   },
   legals: {
     active: true,
