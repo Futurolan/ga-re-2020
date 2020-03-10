@@ -1,7 +1,7 @@
 /* eslint-disable indent */
 const menu = [
   { type: 'config', id: 'news' },
-  { type: 'page', title: 'FAQ Annulation', id: 200387, link: '/faq' }
+  { type: 'page', title: 'FAQ Annulation', id: 200387, link: '/faq' },
   { type: 'config', id: 'live' },
   // { type: 'config', color: '#EF7C37', id: 'tickets' },
   // { type: 'config', id: 'tournaments' },
