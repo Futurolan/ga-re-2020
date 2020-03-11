@@ -1,6 +1,6 @@
 /* eslint-disable indent */
 const config = {
-  title: 'Gamers Assembly 2020',
+  title: 'Gamers Assembly Re 2020',
   logo: '/static/img/logo.png',
   description: 'Retrouvez la Gamers Assembly 2020 du 10 au 13 avril 2020 pour une 21e édition de folie !',
   metaImagePath: '/static/img/logo.png',
