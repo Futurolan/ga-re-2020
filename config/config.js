@@ -1,8 +1,8 @@
 /* eslint-disable indent */
 const config = {
-  title: 'Gamers Assembly Re 2020',
+  title: 'Gamers Assembly Respawn Edition',
   logo: '/static/img/logo.png',
-  description: 'Retrouvez la Gamers Assembly 2020 du 10 au 13 avril 2020 pour une 21e édition de folie !',
+  description: 'Retrouvez la Gamers Assembly Respawn Edition du 12 au 13 septembre 2020 !',
   metaImagePath: '/static/img/logo.png',
   gaTrackingId: 'UA-128777022-11',
   mainPartner: {
@@ -18,14 +18,14 @@ const config = {
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
-      active: true,
+      active: false,
       delay: 10,
       count: 4
     }
   },
   news: {
     title: 'Actualités',
-    description: 'Retrouvez toutes les actualités de la Gamers Assembly 2020',
+    description: 'Retrouvez toutes les actualités de la Gamers Assembly Respawn Edition',
     link: '/news'
   },
   partners: {
@@ -35,12 +35,12 @@ const config = {
   },
   tournaments: {
     title: 'Tournois',
-    description: 'Tous les tournois de la Gamers Assembly 2020',
+    description: 'Tous les tournois de la Gamers Assembly Respawn Edition',
     link: '/tournois'
   },
   info: {
     title: 'Informations pratiques',
-    description: 'Toutes les informations sur la Gamers Assembly 2020',
+    description: 'Toutes les informations sur la Gamers Assembly Respawn Edition',
     link: '/infos'
   },
   schedule: {
@@ -55,7 +55,7 @@ const config = {
   },
   tickets: {
     title: 'Billetterie',
-    description: 'Achetez vos places pour la Gamers Assembly 2020',
+    description: 'Achetez vos places pour la Gamers Assembly Respawn Edition',
     link: '/billetterie',
     notification: '<strong>ATTENTION !</strong><br />Jusqu\'au 11 mars, profitez d\'une réduction de 10 € par place joueur avec le code de réduction <strong>#GA2020</strong><br />  (NE PAS OUBLIER dès le début de l\'inscription, à l\'étape 1)',
     pass: {
@@ -94,7 +94,7 @@ const config = {
     pageId: 6
   },
   press: {
-    active: true,
+    active: false,
     pageId: 199518
   },
   legals: {
@@ -102,7 +102,7 @@ const config = {
     pageId: 8
   },
   recruit: {
-    active: true,
+    active: false,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
     formUrl: 'https://forms.gle/uLwpakkR65Njajjv9'
